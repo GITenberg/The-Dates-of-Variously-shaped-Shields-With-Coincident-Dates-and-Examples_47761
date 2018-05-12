@@ -1,10 +1,16 @@
 _repo: The-Dates-of-Variously-shaped-Shields-With-Coincident-Dates-and-Examples_47761
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47761-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Grazebrook, George
     gutenberg_agent_id: '44459'
     url: http://www.gutenberg.org/2009/agents/44459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47761#The-Dates-of-Variously-shaped-Shields-With-Coincident-Dates-and-Examples
 gutenberg_issued: '2014-12-23'
 gutenberg_type: Text
 identifiers:
